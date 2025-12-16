@@ -1,5 +1,7 @@
 # TT合约
 整合了一元购一元夺宝+事件合约玩法的小程序，TG小程序完整版本，包含前后端，后台管理
+
+https://t.me/btcusdtgf_bot/query?startapp=w--P0to45g68vxPM5mGAdg
 # 架构
 后端Java17开发，RuoYi-Vue框架，springboot3
 前端vue3开发，RuoYi-App框架，基于uniapp+uniui封装的一套基础模版，进行开发TG小程序版本
