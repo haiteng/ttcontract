@@ -4,8 +4,11 @@
 https://t.me/btcusdtgf_bot/query?startapp=w--P0to45g68vxPM5mGAdg
 # 架构
 后端Java17开发，RuoYi-Vue框架，springboot3
+
 前端vue3开发，RuoYi-App框架，基于uniapp+uniui封装的一套基础模版，进行开发TG小程序版本
+
 Redis进行延时队列开奖
+
 mysql存储数据
 # 功能描述
 一元购模式，含有自动下单机器人，指定开奖人设置；交易使用USDT-TRC20充值，系统支持自动检测充值是否成功。
